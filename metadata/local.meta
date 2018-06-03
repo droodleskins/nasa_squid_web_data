@@ -17,3 +17,8 @@ export = none
 owner = admin
 version = 7.1.0
 modtime = 1528001639.460994000
+
+[views/simplexmldashboard_]
+owner = admin
+version = 7.1.0
+modtime = 1528028831.743842000
