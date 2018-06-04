@@ -21,4 +21,11 @@ modtime = 1528001639.460994000
 [views/simplexmldashboard_]
 owner = admin
 version = 7.1.0
-modtime = 1528028831.743842000
+modtime = 1528122444.526990000
+
+[views/basic_dashboard]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 7.1.0
+modtime = 1528123308.101611000
